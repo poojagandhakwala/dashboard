@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins&display=swap');
+.App{
+  background-color: rgb(194, 203, 211);
+  margin:0;
+  overflow-x: hidden!important;
+  
+}
+/* font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif; */

@@ -1,0 +1,35 @@
+nav{
+  /* justify-content: space-around; */
+  font-family: 'Poppins';
+  font-size: 16px;
+  padding:0px 2px!important;
+}
+.current{
+  background-image: linear-gradient(110deg,#0d6efd,lightblue);
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+}
+nav ul{
+  max-width:350px;
+  background-color: rgb(255, 255, 255);
+}
+li{
+  list-style: none;
+  padding:0px 10px;
+}
+span{
+  border-radius:20px;
+  padding:10px;
+}
+span i{
+  font-size: 20px;
+}
+.nav-link:active{
+  background-color: blue;
+  color:white;
+}
+.active{
+  background-color: blue;
+  color:white;
+}

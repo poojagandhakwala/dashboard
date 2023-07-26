@@ -1,0 +1,9 @@
+.table{
+  justify-content: center;
+  border-radius:20px!important;
+  overflow:hidden;
+  max-width:100%; 
+}
+td{
+  padding:1rem 0.5rem!important;
+} 

@@ -15,13 +15,13 @@ const Navbar = ({sendData}) => {
             <a className={`${classes.current} nav-link`} href="/" >
               <li>Users</li>
             </a>
-            <a className='nav-link' href="/c">
+            <a className='nav-link' href="#">
               <li>Campaign</li>   
             </a>
-            <a className='nav-link' href="/table">
+            <a className='nav-link' href="#">
               <li>Table</li>
             </a>
-            <a className='nav-link' href="/list">
+            <a className='nav-link' href="#">
               <li>List</li>
             </a>
 
